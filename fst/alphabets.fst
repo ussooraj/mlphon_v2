@@ -68,12 +68,12 @@
 #schwa# = {ə}
 #IPAvowels# = {a} {aː} {i} {iː} {u} {uː} {rɨ} {rɨː} {lɨ} {lɨː} {e} {eː} {ai̯} {o} {oː} {au̯}
 #IPAvelar# = {k} {kʰ} {ɡ} {ɡʱ} {ŋ}
-#IPApalatal# = {t͡ʃ} {t͡ʃʰ} {ɟ} {ɟʱ} {ɲ}
+#IPApalatal# = {ca} {cʰa} {ɟ} {ɟʱ} {ɲ}
 #IPAretroflex# = {ʈ} {ʈʰ} {ɖ} {ɖʱ} {ɳ}
 #IPAdental# = {t̪} {t̪ʰ} {d̪} {d̪ʱ} {n̪}
 #IPAalveolar# = {ṯ} {n}
 #IPAlabial# = {p} {pʰ} {b} {bʱ} {m}
-#IPAother# = {j} {ɾ} {l} {ʋ} {ʃ} {ʂ} {s} {ɦ} {ɭ} {ɻ} {r} {f}
+#IPAother# = {ja} {ɾa} {la} {ʋa} {ç} {ʂa} {sa} {ɦa} {ɭa} {ɻa} {ra} {fa}
 #IPAconsonants# = #IPAvelar# #IPApalatal# #IPAretroflex# #IPAdental# #IPAalveolar# #IPAlabial# #IPAother#
 
 #IPAs# = #IPAvowels# #IPAconsonants# #schwa#

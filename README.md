@@ -12,6 +12,34 @@ To start using this python library
 
      pip install mlphon
 
+
+OR
+
+Create and activate a new Conda environment (or any other Python virtual environment) to ensure a clean workspace:
+
+     conda create -n myenvname python=3.11
+     conda activate myenvname
+
+Clone the repository to your local machine:
+
+     git clone https://github.com/ussooraj/mlphon_v2.git
+
+Prerequisites:
+
+     pip install pybind11 sfst regex
+
+Navigate into the fst directory within the cloned project and compile its components:
+
+     cd <repository_name>/mlphon_v2/fst &&
+     make clean &&
+     make
+
+same for python directory
+    
+     cd <repository_name>/mlphon_v2/python &&
+     make clean &&
+     make
+
 ### Syllablize a Malayalam Word
 
 The following python snippet will split a word in Malayalam script into syllables.
