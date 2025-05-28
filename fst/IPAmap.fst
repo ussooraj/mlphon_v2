@@ -44,8 +44,8 @@ $velar$ = (ക:{k<plosive><voiceless><unaspirated>}|\
           ഗ:{ɡ<plosive><voiced><unaspirated>}|\
           ഘ:{ɡʱ<plosive><voiced><aspirated>}|\
           ങ:{ŋ<nasal>}) <>:<velar>
-$palatal$ = (ച:{ca<plosive><voiceless><unaspirated>}|\
-            ഛ:{cʰa<plosive><voiceless><aspirated>}|\
+$palatal$ = (ച:{c<plosive><voiceless><unaspirated>}|\
+            ഛ:{cʰ<plosive><voiceless><aspirated>}|\
             ജ:{ɟ<plosive><voiced><unaspirated>}|\
             ഝ:{ɟʱ<plosive><voiced><aspirated>}|\
             ഞ:{ɲ<nasal>}) <>:<palatal>

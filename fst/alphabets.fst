@@ -68,7 +68,7 @@
 #schwa# = {ə}
 #IPAvowels# = {a} {aː} {i} {iː} {u} {uː} {rɨ} {rɨː} {lɨ} {lɨː} {e} {eː} {ai̯} {o} {oː} {au̯}
 #IPAvelar# = {k} {kʰ} {ɡ} {ɡʱ} {ŋ}
-#IPApalatal# = {ca} {cʰa} {ɟ} {ɟʱ} {ɲ}
+#IPApalatal# = {c} {cʰ} {ɟ} {ɟʱ} {ɲ}
 #IPAretroflex# = {ʈ} {ʈʰ} {ɖ} {ɖʱ} {ɳ}
 #IPAdental# = {t̪} {t̪ʰ} {d̪} {d̪ʱ} {n̪}
 #IPAalveolar# = {ṯ} {n}
