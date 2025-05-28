@@ -6,15 +6,6 @@
 
 ## Usage
 
-Using Virtual Environment (https://docs.python.org/3/library/venv.html) is recommended. 
-
-To start using this python library
-
-     pip install mlphon
-
-
-OR
-
 Create and activate a new Conda environment (or any other Python virtual environment) to ensure a clean workspace:
 
      conda create -n myenvname python=3.11
