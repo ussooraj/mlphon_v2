@@ -66,18 +66,18 @@ $labial$ = (പ:{p<plosive><voiceless><unaspirated>}|\
            ബ:{b<plosive><voiced><unaspirated>}|\
            ഭ:{bʱ<plosive><voiced><aspirated>}|\
            മ:{m<nasal>}) <>:<labial>
-$otherconsonants$ = (ഫ:{fa<fricative><labiodental>}|\
-                    യ:{ja<glide><palatal>}|\
-                    ര:{ɾa<flapped><alveolar>}|\
-                    ല:{la<lateral><alveolar>}|\
-                    വ:{ʋa<approximant><labiodental>}|\
+$otherconsonants$ = (ഫ:{f<fricative><labiodental>}|\
+                    യ:{j<glide><palatal>}|\
+                    ര:{ɾ<flapped><alveolar>}|\
+                    ല:{l<lateral><alveolar>}|\
+                    വ:{ʋ<approximant><labiodental>}|\
                     ശ:{ç<fricative><palatal>}|\
-                    ഷ:{ʂa<fricative><retroflex>}|\
-                    സ:{sa<fricative><alveolar>}|\
-                    ഹ:{ɦa<fricative><glottal>}|\
-                    ള:{ɭa<lateral><retroflex>}|\
-                    ഴ:{ɻa<approximant><retroflex>}|\
-                    റ:{ra<trill><alveolar>})
+                    ഷ:{ʂ<fricative><retroflex>}|\
+                    സ:{s<fricative><alveolar>}|\
+                    ഹ:{ɦ<fricative><glottal>}|\
+                    ള:{ɭ<lateral><retroflex>}|\
+                    ഴ:{ɻ<approximant><retroflex>}|\
+                    റ:{r<trill><alveolar>})
 $dotreph$ = ൎ:{r<trill><alveolar><dotreph>}
 $chillu$ = ൺ:{ɳ<chil>} | ൻ:{n<chil>} |ർ:{r<chil>} |ൽ:{l<chil>} | ൾ:{ɭ<chil>}| ൿ:{k<chil>}| ൔ:{m<chil>} | ൕ:{j<chil>} | ൖ:{ɻ<chil>}
 
